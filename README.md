@@ -16,7 +16,6 @@ This repository contains the code and documentation for the project "Intelligent
 - [Project Structure](#project-structure)
 - [Acknowledgements](#acknowledgements)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 Agricultural robotics has emerged as a pivotal technology to address the growing demands for efficient, precise, and sustainable farming practices. This project presents the design and development of an innovative agricultural rover aimed at enhancing crop monitoring, environment monitoring, soil analysis, and precision farming.
